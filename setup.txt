@@ -1,0 +1,2 @@
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+python3 -m pip install -r requirements.txt
